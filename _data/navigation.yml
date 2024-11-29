@@ -23,5 +23,5 @@ main:
   - title: "CV"
     url: /files/cv_werkstudent.pdf
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Bachelor thesis"
+    url: /files/ba_thesis_tarek.pdf
